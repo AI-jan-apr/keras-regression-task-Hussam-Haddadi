@@ -6,3 +6,6 @@ numpy
 scikit-learn
 jupyterlab
 ipykernel
+fastapi
+uvicorn
+joblib
